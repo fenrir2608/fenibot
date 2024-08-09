@@ -1,2 +1,2 @@
 # fenibot
-feni |  adiscord bot for my server
+feni |  a discord bot for my server
