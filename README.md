@@ -13,16 +13,24 @@ I made Feni just to have some fun on my community server. It’s a pretty simple
   - `feni mul <numbers>`: Multiplies some numbers.
   - `feni subs <numbers>`: Subtracts numbers one after another.
   - `feni div <numbers>`: Divides numbers (and yes, it handles dividing by zero).
+  <br>  
+    <img src="https://raw.githubusercontent.com/fenrir2608/fenibot/main/demos/fenidemo1.png" alt="Feni Hi and Arithmetic Commands" width="250"/>
+
 
 - **Fun Stuff:**
   - `feni gf`: Sends a random GIF (because why not?).
   - `feni bf`: Opens a surprise video link (you might not want to click it, just saying).
   - `feni gif <search_term>`: Tries to find a GIF on Tenor (still working on this one).
 
+ <br>
+  <img src="https://raw.githubusercontent.com/fenrir2608/fenibot/main/demos/fenidemo2.png" alt="Feni Gf commands" width="250"/>
+
 - **Links:**
   - `feni fenrir`: Takes you to my YouTube channel.
   - `feni feni`: Same as above—just another way to get there.
 
+  <br>  
+    <img src="https://raw.githubusercontent.com/fenrir2608/fenibot/main/demos/fenidemo3.png" alt="Feni channel commands" width="250"/>
 ## How to Set It Up
 
 1. Clone this repo.
