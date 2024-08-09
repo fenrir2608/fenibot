@@ -14,7 +14,7 @@ class SimpleView(discord.ui.View):
     async def xbtn(self, interaction: discord.Interaction, button:discord.ui.Button):
         await webbrowser.open('https://twitter.com/fenrir2608')
 
-TOKEN = 'MTEzNjMzMzc1NTMzOTAwMjA3OA.Gf4beI.v9rt3SCp6wyTB4CwHc9MCVy7W0cwjZDXvB20RM'
+TOKEN = 'yourkey'
 generalChannel = 775039954849759238
 greetings = [
     'hello',
